@@ -1,6 +1,3 @@
-from traceback import print_tb
-
-
 respuesta = input('responde estimulos? y/n:  ')
 
 if respuesta == 'y':
